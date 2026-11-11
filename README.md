@@ -12,17 +12,17 @@ parametric sweeps of the model.## Model
 ## Results
 
 ### Geometry
-![Geometry](images/geometry.png)
+![Geometry]geometry.png
 
 ### Electric potential and electric field
 Slice of electric potential (0 to 20 kV) with electric field arrows.
-![Potential and field](images/potential_field_slice.png)
+![Potential and field]potential_field_slice.png
 
 ### Potential along the z axis
-![Potential vs z](images/potential_vs_z.png)
+![Potential vs z]potential_vs_z.png
 
 ### Potential along the x axis
-![Potential vs x](images/potential_vs_x.png)
+![Potential vs x]potential_vs_x.png
 
 ## Key findings
 YOUR REAL FINDINGS HERE
